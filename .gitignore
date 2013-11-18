@@ -19,3 +19,9 @@ DerivedData
 
 #CocoaPods
 Pods
+
+# Other stuff added by Ben
+/Classes/*
+/Dependencies/*
+en.lproj/*
+*.bundle
